@@ -1,2 +1,1 @@
-Olá esse projeto ensina você a usar o Git 
-Isso é uma altração
+Olá, nesse projeto eu pratico o que aprendi sobre o Git com a Rafaella Ballerini
