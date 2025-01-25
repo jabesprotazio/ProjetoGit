@@ -1,1 +1,1 @@
-Olá, nesse projeto eu pratico o que aprendi sobre o Git com a Rafaella Ballerini
+Olá, nesse projeto eu pratico o que aprendi sobre o Git com a Rafaella Ballerini!
